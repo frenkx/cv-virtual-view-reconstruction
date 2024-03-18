@@ -1,0 +1,52 @@
+
+# Unreal Engine 5 generated files (binaries, cached data, log, backup)
+Binaries/
+Build/
+Saved/
+Intermediate/
+DerivedDataCache/
+DerivedDataBackendCache/
+Plugins/
+Content/NVOLs/
+*.log
+*.bak
+
+# Visual Studio / Xcode files
+.vs/
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.VC.db
+*.VC.opendb
+.vsconfig
+*.xcodeproj
+*.xcworkspace
+
+# Visual Studio Code files
+.vscode/
+
+# Compiled shader code
+Shaders/
+*.usf
+*.ush
+*.usf.lib
+
+# Asset metadata
+*.meta
+*.umap.meta
+*.uasset.meta
+
+# Other assets
+*.uexp
+*.ubulk
+*.tga
+
+# Other files
+.DS_Store
+.Spotlight-V100/
+*.swp
+*.tmp
+Thumbs.db
+Desktop.ini
